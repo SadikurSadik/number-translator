@@ -1,0 +1,26 @@
+{
+  "name": "sadik/number-translator",
+  "description": "PHP helper class to translate number from english to other language and vice versa.",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Sadik",
+      "email": "sadik7070@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Sadik\\NumberTranslator\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Sadik\\NumberTranslator\\Tests\\": "tests/"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
