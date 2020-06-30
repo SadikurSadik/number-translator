@@ -2,6 +2,7 @@
   "name": "sadik/number-translator",
   "description": "PHP helper class to translate number from english to other language and vice versa.",
   "type": "library",
+  "license": "MIT",
   "authors": [
     {
       "name": "Sadik",
